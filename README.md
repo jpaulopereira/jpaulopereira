@@ -22,6 +22,8 @@
   
   
   </div>
+
+  https://github-readme-stats.vercel.app/api?username={jpaulopereira}&theme=blue-green
 </div>
 
 
