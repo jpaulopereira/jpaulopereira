@@ -2,7 +2,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaulopereira&theme=blue-blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaulopereira&theme=blue-green)
  
 
 ## Tecnologias que uso no meu dia
